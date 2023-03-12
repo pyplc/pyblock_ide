@@ -1,0 +1,93 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:osb="http://www.openswatchbook.org/uri/2009/osb"
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   inkscape:export-ydpi="109.11113"
+   inkscape:export-xdpi="109.11113"
+   inkscape:export-filename="C:\Users\hs\Documents\VS Code\Python\SPS\icons\information_button.png"
+   sodipodi:docname="information_button.svg"
+   inkscape:version="1.0 (4035a4fb49, 2020-05-01)"
+   id="svg8"
+   version="1.1"
+   viewBox="0 0 7.9374995 7.9374995"
+   height="30"
+   width="30">
+  <defs
+     id="defs2">
+    <linearGradient
+       id="linearGradient1410"
+       osb:paint="solid">
+      <stop
+         style="stop-color:#010103;stop-opacity:1;"
+         offset="0"
+         id="stop1408" />
+    </linearGradient>
+  </defs>
+  <sodipodi:namedview
+     inkscape:window-maximized="1"
+     inkscape:window-y="-6"
+     inkscape:window-x="-6"
+     inkscape:window-height="1018"
+     inkscape:window-width="1920"
+     showgrid="false"
+     inkscape:document-rotation="0"
+     inkscape:current-layer="layer1"
+     inkscape:document-units="px"
+     inkscape:cy="15.247356"
+     inkscape:cx="20.678786"
+     inkscape:zoom="21.602919"
+     inkscape:pageshadow="2"
+     inkscape:pageopacity="0.0"
+     borderopacity="1.0"
+     bordercolor="#666666"
+     pagecolor="#ffffff"
+     id="base"
+     units="px" />
+  <metadata
+     id="metadata5">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     id="layer1"
+     inkscape:groupmode="layer"
+     inkscape:label="Ebene 1">
+    <text
+       id="text857"
+       y="3.6497765"
+       x="2.9026747"
+       style="font-size:3.52777px;line-height:1.25;font-family:sans-serif;stroke-width:0.264583"
+       xml:space="preserve"><tspan
+         style="stroke-width:0.264583"
+         y="3.6497765"
+         x="2.9026747"
+         id="tspan855"
+         sodipodi:role="line"></tspan></text>
+    <text
+       inkscape:export-ydpi="89"
+       inkscape:export-xdpi="89"
+       id="text865"
+       y="6.2095189"
+       x="2.6577232"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:7.05556px;line-height:1.25;font-family:Constantia;-inkscape-font-specification:Constantia;stroke-width:0.264583;fill:#003aff;fill-opacity:1;"
+       xml:space="preserve"><tspan
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Constantia;-inkscape-font-specification:Constantia;stroke-width:0.264583;fill:#003aff;fill-opacity:1;"
+         y="6.2095189"
+         x="2.6577232"
+         id="tspan863"
+         sodipodi:role="line">i</tspan></text>
+  </g>
+</svg>

@@ -1,0 +1,108 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:osb="http://www.openswatchbook.org/uri/2009/osb"
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   sodipodi:docname="count_button.svg"
+   inkscape:version="1.0 (4035a4fb49, 2020-05-01)"
+   id="svg8"
+   version="1.1"
+   viewBox="0 0 7.9374995 7.9374995"
+   height="30"
+   width="30"
+   inkscape:export-filename="C:\Users\hs\Documents\VS Code\Python\SPS\and2_button.png"
+   inkscape:export-xdpi="118.62897"
+   inkscape:export-ydpi="118.62897">
+  <defs
+     id="defs2">
+    <linearGradient
+       id="linearGradient1410"
+       osb:paint="solid">
+      <stop
+         style="stop-color:#010103;stop-opacity:1;"
+         offset="0"
+         id="stop1408" />
+    </linearGradient>
+  </defs>
+  <sodipodi:namedview
+     inkscape:window-maximized="1"
+     inkscape:window-y="-6"
+     inkscape:window-x="3833"
+     inkscape:window-height="1018"
+     inkscape:window-width="1920"
+     showgrid="false"
+     inkscape:document-rotation="0"
+     inkscape:current-layer="layer1"
+     inkscape:document-units="px"
+     inkscape:cy="34.206151"
+     inkscape:cx="42.626629"
+     inkscape:zoom="11.347252"
+     inkscape:pageshadow="2"
+     inkscape:pageopacity="0.0"
+     borderopacity="1.0"
+     bordercolor="#666666"
+     pagecolor="#ffffff"
+     id="base"
+     units="px" />
+  <metadata
+     id="metadata5">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     id="layer1"
+     inkscape:groupmode="layer"
+     inkscape:label="Ebene 1">
+    <rect
+       style="fill:#dced12;fill-opacity:1;stroke:#000000;stroke-width:0.165"
+       id="rect1406"
+       width="4.1425357"
+       height="5.7090402"
+       x="1.8101835"
+       y="1.0443367" />
+    <rect
+       style="fill:#dced12;fill-opacity:1;stroke:#000000;stroke-width:0.1651;stroke-miterlimit:4;stroke-dasharray:none"
+       id="rect1684"
+       width="0.8702805"
+       height="0.17405611"
+       x="0.93990296"
+       y="1.740561" />
+    <rect
+       y="5.8656907"
+       x="0.88768619"
+       height="0.17405611"
+       width="0.8702805"
+       id="rect1684-8"
+       style="fill:#dced12;fill-opacity:1;stroke:#000000;stroke-width:0.1651;stroke-miterlimit:4;stroke-dasharray:none" />
+    <text
+       xml:space="preserve"
+       style="font-size:1.76389px;line-height:1.25;font-family:sans-serif;stroke-width:0.264583"
+       x="1.9297242"
+       y="4.4663453"
+       id="text1713"><tspan
+         sodipodi:role="line"
+         id="tspan1711"
+         x="1.9297242"
+         y="4.4663453"
+         style="font-size:1.76389px;stroke-width:0.264583">CUD</tspan></text>
+    <rect
+       y="3.7422063"
+       x="0.81806374"
+       height="0.17405611"
+       width="0.8702805"
+       id="rect1684-3"
+       style="fill:#dced12;fill-opacity:1;stroke:#000000;stroke-width:0.1651;stroke-miterlimit:4;stroke-dasharray:none" />
+  </g>
+</svg>

@@ -1,0 +1,101 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:osb="http://www.openswatchbook.org/uri/2009/osb"
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   inkscape:export-ydpi="113.65002"
+   inkscape:export-xdpi="113.65002"
+   inkscape:export-filename="C:\Users\hs\Documents\VS Code\Python\SPS\icons\datei_speichern_button.png"
+   sodipodi:docname="page_export_button.svg"
+   inkscape:version="1.0 (4035a4fb49, 2020-05-01)"
+   id="svg8"
+   version="1.1"
+   viewBox="0 0 7.9374995 7.9374995"
+   height="30"
+   width="30">
+  <defs
+     id="defs2">
+    <linearGradient
+       id="linearGradient1410"
+       osb:paint="solid">
+      <stop
+         style="stop-color:#010103;stop-opacity:1;"
+         offset="0"
+         id="stop1408" />
+    </linearGradient>
+  </defs>
+  <sodipodi:namedview
+     inkscape:window-maximized="1"
+     inkscape:window-y="-6"
+     inkscape:window-x="3833"
+     inkscape:window-height="1018"
+     inkscape:window-width="1920"
+     showgrid="false"
+     inkscape:document-rotation="0"
+     inkscape:current-layer="layer1"
+     inkscape:document-units="px"
+     inkscape:cy="34.206151"
+     inkscape:cx="44.003692"
+     inkscape:zoom="9.2081121"
+     inkscape:pageshadow="2"
+     inkscape:pageopacity="0.0"
+     borderopacity="1.0"
+     bordercolor="#666666"
+     pagecolor="#ffffff"
+     id="base"
+     units="px" />
+  <metadata
+     id="metadata5">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title />
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     id="layer1"
+     inkscape:groupmode="layer"
+     inkscape:label="Ebene 1">
+    <path
+       inkscape:export-ydpi="113"
+       inkscape:export-xdpi="113"
+       id="path908"
+       d="M 5.1594911,1.0919558 5.978458,1.829026 5.92386,6.770126 H 1.6925314 l 0.027299,-5.6235724 z"
+       style="fill:#ffffff;stroke:#000000;stroke-width:0.132292;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;fill-opacity:1" />
+    <path
+       inkscape:export-ydpi="113"
+       inkscape:export-xdpi="113"
+       id="path910"
+       d="M 5.2106786,1.0919558 5.1850859,1.8836237 5.978458,1.829026 Z"
+       style="fill:none;stroke:#000000;stroke-width:0.132292;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+    <path
+       inkscape:export-ydpi="113"
+       inkscape:export-xdpi="113"
+       sodipodi:type="star"
+       style="fill:#060606;fill-opacity:1;stroke:#1e311e;stroke-width:0.0879618;stroke-linecap:round;stroke-opacity:1"
+       id="path1437"
+       sodipodi:sides="3"
+       sodipodi:cx="3.8089683"
+       sodipodi:cy="4.2850895"
+       sodipodi:r1="1.4037129"
+       sodipodi:r2="0.70891011"
+       sodipodi:arg1="0.49934672"
+       sodipodi:arg2="1.5465443"
+       inkscape:flatsided="false"
+       inkscape:rounded="0"
+       inkscape:randomized="0"
+       d="M 5.0412816,4.9572604 3.8261591,4.9937911 2.6106946,5.0162187 3.1866193,3.9456264 3.7749287,2.8817894 4.4141265,3.915851 Z"
+       inkscape:transform-center-x="-0.0054945317"
+       inkscape:transform-center-y="-0.31757451"
+       transform="matrix(0.88505828,0.01368645,-0.01363751,0.91983002,0.5526186,0.42985933)" />
+  </g>
+</svg>

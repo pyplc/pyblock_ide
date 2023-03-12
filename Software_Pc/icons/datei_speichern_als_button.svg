@@ -1,0 +1,123 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:osb="http://www.openswatchbook.org/uri/2009/osb"
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   inkscape:export-ydpi="106.03529"
+   inkscape:export-xdpi="106.03529"
+   inkscape:export-filename="C:\Users\hs\Documents\VS Code\Python\SPS\icons\datei_oeffnen_button.png"
+   sodipodi:docname="datei_speichern_als_button.svg"
+   inkscape:version="1.0 (4035a4fb49, 2020-05-01)"
+   id="svg8"
+   version="1.1"
+   viewBox="0 0 7.9374995 7.9374995"
+   height="30"
+   width="30">
+  <defs
+     id="defs2">
+    <linearGradient
+       id="linearGradient1410"
+       osb:paint="solid">
+      <stop
+         style="stop-color:#010103;stop-opacity:1;"
+         offset="0"
+         id="stop1408" />
+    </linearGradient>
+  </defs>
+  <sodipodi:namedview
+     inkscape:window-maximized="1"
+     inkscape:window-y="-6"
+     inkscape:window-x="3833"
+     inkscape:window-height="1018"
+     inkscape:window-width="1920"
+     showgrid="false"
+     inkscape:document-rotation="0"
+     inkscape:current-layer="layer1"
+     inkscape:document-units="px"
+     inkscape:cy="23.148699"
+     inkscape:cx="26.467814"
+     inkscape:zoom="14.103975"
+     inkscape:pageshadow="2"
+     inkscape:pageopacity="0.0"
+     borderopacity="1.0"
+     bordercolor="#666666"
+     pagecolor="#ffffff"
+     id="base"
+     units="px" />
+  <metadata
+     id="metadata5">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title />
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     id="layer1"
+     inkscape:groupmode="layer"
+     inkscape:label="Ebene 1">
+    <path
+       sodipodi:nodetypes="cccccccc"
+       id="path861"
+       d="m 1.2011514,7.288805 v -4.44972 h 1.010059 0.4367824 L 2.6206939,3.3031663 6.3333436,3.2758674 V 7.288805 Z"
+       style="fill:#fffb1d;fill-opacity:1;stroke:#000000;stroke-width:0.132292;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       inkscape:export-xdpi="106"
+       inkscape:export-ydpi="106" />
+    <path
+       id="path863"
+       d="M 1.2011514,7.2888051 2.2385094,4.2040297 7.3161037,4.0948341 6.3333436,7.2888051 Z"
+       style="fill:#fffb1d;fill-opacity:1;stroke:#000000;stroke-width:0.132292;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       inkscape:export-xdpi="106"
+       inkscape:export-ydpi="106" />
+    <path
+       transform="matrix(2.0935517,0,0,-1.5983945,-4.3363107,3.8166527)"
+       inkscape:transform-center-y="0.28077318"
+       d="m 4.0402365,0.54597795 0.3104287,0.53054515 0.3042512,0.5341118 -0.6146799,0.00357 -0.61468,-0.00357 0.3042512,-0.5341117 z"
+       inkscape:randomized="0"
+       inkscape:rounded="0"
+       inkscape:flatsided="false"
+       sodipodi:arg2="-0.52359878"
+       sodipodi:arg1="-1.5707963"
+       sodipodi:r2="0.35845223"
+       sodipodi:r1="0.70977128"
+       sodipodi:cy="1.2557492"
+       sodipodi:cx="4.0402365"
+       sodipodi:sides="3"
+       id="path873"
+       style="fill:#000b00;fill-opacity:1;stroke:#0b0d0b;stroke-width:0.0723186;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       sodipodi:type="star"
+       inkscape:export-xdpi="106"
+       inkscape:export-ydpi="106" />
+    <rect
+       y="0.71630293"
+       x="3.8094289"
+       height="1.3038152"
+       width="0.64029133"
+       id="rect875"
+       style="fill:#060906;fill-opacity:1;stroke:#0c150c;stroke-width:0.132292;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       inkscape:export-xdpi="106"
+       inkscape:export-ydpi="106" />
+    <text
+       xml:space="preserve"
+       style="font-size:2.82222px;line-height:1.25;font-family:sans-serif;stroke-width:0.264583"
+       x="2.3039238"
+       y="6.7654905"
+       id="text857"
+       inkscape:export-xdpi="106"
+       inkscape:export-ydpi="106"><tspan
+         sodipodi:role="line"
+         id="tspan855"
+         x="2.3039238"
+         y="6.7654905"
+         style="font-size:2.82222px;stroke-width:0.264583">AS</tspan></text>
+  </g>
+</svg>
